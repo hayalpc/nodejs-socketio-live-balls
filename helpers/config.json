@@ -1,0 +1,8 @@
+{
+  "development":{
+    "socketUrl":"//localhost:3000"
+  },
+  "production":{
+    "socketUrl":"//localhost:3000"
+  }
+}
